@@ -1,0 +1,549 @@
+1 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Need Ethernet access
+2 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please connect the LAN cable to the red port on your workstation. Please write back to IT if you are unable to get the IP addresss
+3 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Need a LAN Cable
+4 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please come to IT desk and collect.
+5 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Need a laptop Conector.
+6 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please come to IT desk and collect.
+7 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Need a mouse
+8 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ hello Raj Ganpur<br /><br />please come to It desk and collect the mouse.
+9 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Mouse replacement is needed.
+10 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ hello Raj Ganpur<br /><br />we are replaced the another mouse.<br />hence we closed.<br /><br />Thanks&amp;Regards<br />kumaraswamy annepu
+11 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+12 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Kumara Swamy Annepu
+13 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+14 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Vinod Kumar Reddy Dendi
+15 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Create new account and share the username and password
+16 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Go to URL : accountsetup.com, Enter personal details along with user id, enter OTP received, click finish. Check email for details.
+17 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ USB Enabling
+18 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ As you requested, we have enabled USB access on your laptop. Please check and confirm it.
+19 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+20 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Naga Appana &lt;nappana@abc.com&gt; via Email (to)<br />Hari Neelam &lt;hneelam@abc.com&gt; via Email (to)
+21 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+22 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+23 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Nagaraju Mochi
+24 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please do need full<br /><br />
+25 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Hari Neelam
+26 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ could you please take care of the ticket.
+27 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Request to create login credentials for Mr. Koti
+28 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ We have already created account and details have been sent to his personal Email ID
+29 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Request to create login credentials for Dr. Hasan
+30 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Account created and details sent to user's personal email ID
+31 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ FW: Myspace Login Issue-- Ania
+32 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Go to URL : password.reset.com, Enter you login id, enter password received, reset the password
+33 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Login credetials are not working.
+34 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Go to URL : password.reset.com, Enter you login id, enter password received, reset the password
+35 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+36 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ update
+37 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shijil Kumar Aynoli
+38 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ pls check and do the needful
+39 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+40 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+41 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shijil Kumar Aynoli
+42 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please check and do the needful.
+43 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Not able to proceed further in ticket.abc.com after logging in
+44 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Resolved. Please check the same now.
+45 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ New Account is needed for a new joinee.
+46 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Go to URL : accountsetup.com, Enter personal details along with user id, enter OTP received, click finish. Check email for details.
+47 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Re: Unable to access outlook and myspace [user id: sdash]
+48 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ We have reset the password and communicated to user in a mail already, now user is able to login. Hence marking the ticket resolved
+49 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shijil Kumar Aynoli
+50 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ pls check and do the needful
+51 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+52 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+53 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+54 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Vamshi Tatiparthi &lt;vtatiparthi@abc.com&gt; via Email (to)<br />Chiranjeevi Mishra &lt;cmishra@abc.com&gt; via Email (to)<br />IT Support &lt;it@abc.com&gt; via Email (cc)<br />Hazi Mohmmad &lt;hmohmmad@abc.com&gt; via Email (cc)<br />Shijil Aynoli &lt;saynoli@abc.com&gt; via Email (cc)
+55 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+56 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ PradeepKumar OV &lt;pvijayakumar@abc.com&gt; via Email (cc)<br />Stephen Sebastian &lt;ssebastian@abc.com&gt; via Email (cc)<br />Sanapati Patrudu &lt;spatrudu@abc.com&gt; via Email (cc)
+57 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Pavan Kumar Thukuntla
+58 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Pavan Kumar Thukuntla
+59 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+60 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Pavan Thukuntla &lt;pthukuntla@abc.com&gt; via Email (to)
+61 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Removing Person A and Adding Person B to ABC Project
+62 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Changes have been done as per the request. Hence closing the request.
+63 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+64 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Sripathy Venkateswaran &lt;svenkateswaran@abc.com&gt; via Email (cc)<br />Guru Vinjamuri &lt;gvinjamuri@abc.com&gt; via Email (cc)
+65 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shijil Kumar Aynoli
+66 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please do the needful.
+67 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+68 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+69 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+70 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Raised a procurement request
+71 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shijil Kumar Aynoli
+72 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please check and do the needful.
+73 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Kumara Swamy Annepu
+74 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please take care
+75 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+76 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+77 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Pavan Kumar Thukuntla
+78 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please arrange one bag to the user is in KJ now
+79 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+80 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+81 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+82 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+83 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Pavan Kumar Thukuntla
+84 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Pavan Kumar Thukuntla
+85 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+86 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Pending by Pavan Kumar Thukuntla
+87 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+88 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+89 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+90 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ delay from the user end
+91 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+92 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+93 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+94 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ delay from user end
+95 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+96 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ delay from user end
+97 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Name Correction in mail id
+98 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Change has been done.
+99 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+100 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Shyamsundhar Kambam &lt;skambam@abc.com&gt; via Email (to)<br />IT Support &lt;it@abc.com&gt; via Email (to)<br />Finance &lt;finance@abc.com&gt; via Email (cc)<br />Hazi Mohmmad &lt;hmohmmad@abc.com&gt; via Email (cc)
+101 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Request to configure the system to share it among users
+102 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ They won't be able to access other profiles if they login with their account. Please ask users to reach out to IT if they have any issues.
+103 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Vinod Kumar Reddy Dendi
+104 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Vinod Kumar Reddy Dendi
+105 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+106 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ We have sent abc account details to user, Marking the ticket Resolved.<br /><br />Regards<br />Vinod
+107 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+108 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Updated Helptopic
+109 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Vinod Kumar Reddy Dendi
+110 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please Update the ticket
+111 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+112 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+113 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+114 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ We have reset the password and communicated to user in a mail already, now user is able to login. Hence marking the ticket resolved.<br /><br /> Regards<br /> Vinod
+115 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+116 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Pradeep Lakkaraju &lt;plakkaraju@abc.com&gt; via Email (cc)
+117 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shashi Kumar Raju Hasthi
+118 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Shashi Kumar Raju Hasthi
+119 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+120 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+121 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Sandeep Reddy Jakkidi
+122 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Sandeep Reddy Jakkidi
+123 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Unable to connect to internet using wifi network inn009
+124 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ inn009 is removed, connect to inn001. Connect IT helpdesk if any more issues.
+125 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Needs permission wifi access to laptop
+126 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access
+127 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+128 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Pradeep Gudipati &lt;pgudipati@abc.com&gt; via Email (cc)
+129 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Pavan Kumar Thukuntla
+130 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Pavan Kumar Thukuntla
+131 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+132 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Pavan Thukuntla &lt;pthukuntla@abc.com&gt; via Email (to)
+133 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+134 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Pending by Pavan Kumar Thukuntla
+135 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+136 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+137 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+138 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Pending to Closed by Pavan Kumar Thukuntla
+139 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Sandeep Reddy Jakkidi
+140 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Sandeep Reddy Jakkidi
+141 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Need Wifi Access Approval
+142 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Not approved by manager, hence closing this ticket.
+143 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Need abc FTP Server Details
+144 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IT team has sent the FTP credentials to your email separately. Marking the ticket as closed.
+145 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+146 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Sreedhar Tadavarthy &lt;stadavarthy@abc.com&gt; via Email (cc)
+147 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Sandeep Reddy Jakkidi
+148 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Sandeep Reddy Jakkidi
+149 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+150 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Resolved by Sandeep Reddy Jakkidi
+151 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Need administration acess for installing softwares in my system
+152 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ <div style=font-size:12pt;color:#000000;background-color:#FFFFFF;font-family:Calibri
+153 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+154 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Phani Sattiraju &lt;psattiraju@abc.com&gt; via Email (cc)<br />MuraliKrishna Samavedam &lt;msamavedam@abc.com&gt; via Email (cc)
+155 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ LAN not working in a VM
+156 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ changed network settings to Bridged and configured network in VM.
+157 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+158 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Bhasker Kottapally &lt;bkottapally@abc.com&gt; via Email (cc)<br />Tirumala Thummu &lt;dtirumala@abc.com&gt; via Email (cc)<br />Amarender Bireddy &lt;abireddy@abc.com&gt; via Email (cc)
+159 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shashi Kumar Raju Hasthi
+160 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Shashi Kumar Raju Hasthi
+161 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+162 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Sunil Devarapalli &lt;sdevarapalli@abc.com&gt; via Email (cc)
+163 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Sandeep Reddy Jakkidi
+164 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Sandeep Reddy Jakkidi
+165 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Need Wave rock VPN
+166 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IT team has provided VPN access. 
+Please follow the instructions on https://ticket.abc.com/kb/faq.php and click on Network Issues and solution and then select SSLVPN configuration for your machines
+167 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Jira project creation and user permission
+168 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IT Team created New Project in Jira and shared details with you in separate mail. 
+Please pass the details to the concerned users individually know if there are any issues/requirements URL:https://jira.abc.com Project Name: P3DataSystemsKey
+169 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+170 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Rajesh Palepu &lt;rpalepu@abc.com&gt; via Email (cc)<br />Rajeshjan08 &lt;rajeshjan08@gmail.com&gt; via Email (cc)
+171 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Sandeep Reddy Jakkidi
+172 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Sandeep Reddy Jakkidi
+173 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+174 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Resolved by Sandeep Reddy Jakkidi
+175 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+176 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Resolved to Open by SYSTEM<hr />Reopened
+177 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shashi Kumar Raju Hasthi
+178 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Shashi Kumar Raju Hasthi
+179 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+180 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Resolved by Shashi Kumar Raju Hasthi
+181 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Public IP Address for Coffee House project 
+182 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IT Team has Assigned public IP to the host. IP Address is: 115.111.91.10
+183 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Wifi access needed.
+184 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access
+185 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ server#11 got hanged and needed a restart
+186 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IT Team has restarted the server and its accessible now.
+187 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+188 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+189 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Janardhana Rao Vemulapalli
+190 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Janardhana Rao Vemulapalli
+191 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+192 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Pending by Janardhana Rao Vemulapalli
+193 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Janardhana Rao Vemulapalli
+194 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Janardhana Rao Vemulapalli
+195 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+196 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Under progress...
+197 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Linux VM for Azuba project
+198 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IT Team has created VM as per your requirement and configured accordingly and sent the login details in a separate mail.
+199 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shashi Kumar Raju Hasthi
+200 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Shashi Kumar Raju Hasthi
+201 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Login credetials are not working, says username or password wrong.
+202 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Password got expired. New password is sent to your email id
+203 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+204 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Hari Neelam &lt;hneelam@abc.com&gt; via Email (to)<br />Sankarganesh Kumarasamy &lt;skumarasamy@abc.com&gt; via Email (cc)<br />Sarvanan Thivakaram &lt;sthivakaram@abc.com&gt; via Email (cc)
+205 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+206 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Changed the help topic
+207 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+208 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Resolved by Hari Neelam
+209 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+210 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Resolved to Open by SYSTEM<hr />Reopened
+211 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+212 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Hari Neelam
+213 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to N V R S Surya Narayana Garlapati
+214 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ please do the needful.
+215 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+216 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+217 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+218 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Vinod Dendi &lt;vdendi@abc.com&gt; via Email (to)<br />Mamata Lingala &lt;mlingala@abc.com&gt; via Email (cc)
+219 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Install Microsoft outlook
+220 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Installed micrsoft outlook on your machine and closing the ticket
+221 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Vinod Kumar Reddy Dendi
+222 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Vinod Kumar Reddy Dendi
+223 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+224 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Hi Mamata,<br /><br /> We have created a user account for you on androidbuild1 (192.168.205.11) server and shared the login credentials in a separate mail to you.<br /><br /> Regards<br /> Vinod
+225 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+226 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Sandeep Jakkidi &lt;sjakkidi@abc.com&gt; via Email (cc)
+227 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Sandeep Reddy Jakkidi
+228 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Sandeep Reddy Jakkidi
+229 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Sandeep Reddy Jakkidi
+230 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Sandeep Reddy Jakkidi
+231 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ My Space QA application is down
+232 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ We regret for the inconvinience caused. The issue is with Host server which got rebooted due to a power failure.
+233 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+234 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Pending by Sandeep Reddy Jakkidi
+235 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ New Collaborator Added
+236 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Rakesh Pandirla &lt;rpandirla@abc.com&gt; added as a collaborator
+237 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ New Collaborator Added
+238 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Santhosh Battar &lt;sbattar@abc.com&gt; added as a collaborator
+239 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Sandeep Reddy Jakkidi
+240 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please close the ticket from your end.
+241 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+242 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Sandeep Reddy Jakkidi
+243 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Configure outlook in my system
+244 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IT Team has sent the instructions to configure outlook -follow the instructions on https://ticket.abc.com/kb/faq.php and click on O365 and solution and then outlook configuration for your machines
+245 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Mailbox is full 
+246 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IT Team has sent the instructions to cleanup the maibox and archieve mails https://ticket.abc.com/kb/faq.php and click on O365 issues and then Mail box full
+
+247 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Login Page is not getting displayed
+248 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Login server was down. It is up now. Please check.
+249 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Prvide me the admini privileges to install mysql database
+250 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Granted admin privileges to install It will get revoked in 24hrs.
+251 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Prvide me the admini privileges to install mysql database
+252 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Granted admin privileges to install It will get revoked in 24hrs.
+253 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+254 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Arvind Yadav &lt;aryadav@abc.com&gt; via Email (cc)
+255 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Vinod Kumar Reddy Dendi
+256 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Vinod Kumar Reddy Dendi
+257 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+258 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Hi,<br /><br />We have created an account for Arvind on 205.11 Server and details are communicated in a mail to him.<br /><br />Marking the ticket resolved.<br /><br />Regards<br />Vinod
+259 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Sandeep Reddy Jakkidi
+260 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please do the needful.
+261 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+262 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+263 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Install postgres database on my machine
+264 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Go to \imfs\software\postgres location, copy postgresql database into local and install
+265 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ System showing blue screen on startup
+266 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ 1. Hold the power button until system gets shut down, then hit the power button to boot the machine. If still blue screen appears contact IT team and surrender the laptop.
+267 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Unable to install outlook, it is asking for admin access needed
+268 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Granted admin privileges to install It will get revoked in 24hrs.
+269 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Desktop not working
+270 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please check the Power cables are properly plugged , Please write back to us if the Problem still persists.
+271 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+272 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Monisha Rajput &lt;mrajput@abc.com&gt; via Email (cc)
+273 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+274 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+275 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Nagaraju Mochi
+276 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please look into the user request
+277 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+278 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Pending by Nagaraju Mochi
+279 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+280 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+281 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+282 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+283 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Kishore Babu Ganesana
+284 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Kishore Babu Ganesana
+285 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+286 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Resolved by Kishore Babu Ganesana
+287 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shijil Kumar Aynoli
+288 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Shijil Kumar Aynoli
+289 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Kishore Babu Ganesana
+290 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Kishore Babu Ganesana
+291 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ System behaving strangely, blue screen is appearing in middle
+292 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Press F8 button on system start, Choose safe mode, if OS loads then restart the os, if still same issue comes handover it to IT team
+293 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ My Internet is not working
+294 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Go to network tab from bottom right corner, choose inn001 network, click on connect
+295 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Kishore Babu Ganesana
+296 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Kishore Babu Ganesana
+297 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+298 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Shijil Aynoli &lt;saynoli@abc.com&gt; via Email (to)<br />Gnaneswar Kk &lt;gnaneswar.kk@emc.com&gt; via Email (to)<br />IT Support &lt;it@abc.com&gt; via Email (cc)<br />Santhosh Battar &lt;sbattar@abc.com&gt; via Email (cc)
+299 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+300 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Shijil Kumar Aynoli
+301 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+302 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ravi Pallaprolu &lt;rpallaprolu@abc.com&gt; via Email (cc)<br />Anil Thanjavuru &lt;athanjavuru@abc.com&gt; via Email (cc)
+303 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Anil Kumar Thanjavuru
+304 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Could you please look into this user request.
+305 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+306 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+307 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+308 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+309 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+310 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Pradeep Gudipati &lt;pgudipati@abc.com&gt; via Email (cc)<br />Sreedhar Tadavarthy &lt;stadavarthy@abc.com&gt; via Email (cc)
+311 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+312 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Pending by Shijil Kumar Aynoli
+313 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Account got locked, because of 3 wrong attempts os password. Could you please reset the password
+314 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Unlocked the account and new password is sent to your email id.
+315 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ System hangs with blue screen on startup
+316 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Press F8 button on system start, Choose safe mode, if OS loads then restart the os, if still same issue comes handover it to IT team
+317 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+318 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Sreedhar Tadavarthy &lt;stadavarthy@abc.com&gt; via Email (cc)
+319 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Janardhana Rao Vemulapalli
+320 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Could you please look into the request.
+321 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Unable to connect to internet using wifi network inn009
+322 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ inn009 is removed, connect to inn001
+323 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shijil Kumar Aynoli
+324 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Shijil Kumar Aynoli
+325 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+326 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Parshuram Kattimani &lt;pkattimani@abc.com&gt; via Email (to)<br />Santhosh Battar &lt;sbattar@abc.com&gt; via Email (cc)<br />Ramprasad Polana &lt;rpolana@abc.com&gt; via Email (cc)<br />Syam Chodipalli &lt;schodipalli@abc.com&gt; via Email (cc)
+327 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to N V R S Surya Narayana Garlapati
+328 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please check and close the ticket from your end
+329 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+330 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by N V R S Surya Narayana Garlapati
+331 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+332 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ravi Pallaprolu &lt;rpallaprolu@abc.com&gt; via Email (cc)<br />Sunish Nambayil &lt;snambayil@abc.com&gt; via Email (cc)
+333 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Anil Kumar Thanjavuru
+334 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please do needful
+335 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+336 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+337 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+338 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+339 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+340 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+341 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+342 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+343 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Janardhana Rao Vemulapalli
+344 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Could you please look into this request
+345 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+346 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+347 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Pavan Kumar Thukuntla
+348 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Hi Pavan,<br /><br />Check with Mamatha and then with Anil. Hope this is only User account creation. If there is any issue i will help you.<br />
+349 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Unable to connect to Internet
+350 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Go to network tab from bottom right corner, choose inn001 network, click on connect
+351 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Facing network/internet issue with wifi xwq090
+352 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Go to network tab from bottom right corner, choose inn001 network, click on connect
+353 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+354 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Gangadhar Vithana &lt;gvithana@abc.com&gt; via Email (cc)<br />Mani Kathi &lt;mkathi@abc.com&gt; via Email (cc)
+355 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shijil Kumar Aynoli
+356 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Plz do the needful.
+357 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+358 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Shijil Kumar Aynoli
+359 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+360 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Sreenadhu Kumar &lt;srkumar@abc.com&gt; via Email (to)
+361 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Kishore Babu Ganesana
+362 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Plz close it from your end.
+363 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+364 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Nagaraju Mochi
+365 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+366 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Closed to Open by Nagaraju Mochi
+367 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+368 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Gangadhar Vithana &lt;gvithana@abc.com&gt; via Email (cc)
+369 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Replace the battery for my Macbook laptop
+370 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please run Battery Helath test and send us the results IT team will do the needful accordingly. Please follow the steps to cehck the battery Helath https://ticket.abc.com/kb/faq.php Hardware issue-Battery issue
+371 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+372 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Atul Kumar &lt;atultech@gmail.com&gt; via Email (to)<br />Lakshmi Nagaraja &lt;lnagaraja@abc.com&gt; via Email (cc)<br />Ritesh Pathak &lt;rpathak@abc.com&gt; via Email (cc)<br />Arun Kalasapudi &lt;akalasapudi@abc.com&gt; via Email (cc)<br />Chaitanya Kasiraju &lt;ckasiraju@abc.com&gt; via Email (cc)<br />IT Support &lt;it@abc.com&gt; via Email (cc)<br />Atul Kumar &lt;c_akumar@abc.com&gt; via Email (cc)
+373 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Pavan Kumar Thukuntla
+374 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please close the ticket from your end
+375 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ File Import Error
+376 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IMG_20170505_125435.jpg: File size is too large
+377 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ File Import Error
+378 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IMG_20170505_125423.jpg: File size is too large
+379 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+380 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Shijil Aynoli &lt;saynoli@abc.com&gt; via Email (to)
+381 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ New Collaborator Added
+382 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Mahesh Parise &lt;mparise@abc.com&gt; added as a collaborator
+383 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ New Collaborator Added
+384 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Pallavi Garimella &lt;pgarimella@abc.com&gt; added as a collaborator
+385 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+386 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Shijil Kumar Aynoli
+387 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shijil Kumar Aynoli
+388 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket assignment
+389 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ New Ticket by Agent
+390 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket created by agent - Shijil Kumar Aynoli
+391 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+392 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Shijil Kumar Aynoli
+393 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+394 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Prasanna Gorla &lt;pgorla@abc.com&gt; via Email (cc)
+395 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shijil Kumar Aynoli
+396 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Shijil Kumar Aynoli
+397 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Kishore Babu Ganesana
+398 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket assignment
+399 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ New Ticket by Agent
+400 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket created by agent - Kishore Babu Ganesana
+401 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ File Import Error
+402 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IMG_3186.JPG: File size is too large
+403 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+404 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Arun Kalasapudi &lt;akalasapudi@abc.com&gt; via Email (cc)
+405 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Nagaraju Mochi
+406 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Could you please help the user
+407 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+408 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Pending by Nagaraju Mochi
+409 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ File Import Error
+410 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IMG_3190.JPG: File size is too large
+411 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+412 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Pending to Closed by Nagaraju Mochi
+413 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+414 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ lakshman &lt;papu.lakshman@gmail.com&gt; via Email (to)<br />Lakshmana Kanthraju &lt;lkanthraju@abc.com&gt; via Email (cc)
+415 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+416 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Hari Neelam
+417 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+418 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ahmed Khan &lt;dkhan@abc.com&gt; via Email (cc)
+419 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+420 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Pending by Nagaraju Mochi
+421 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+422 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Pending to Closed by Nagaraju Mochi
+423 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Computer is not getting switched on
+424 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Contact IT support.
+425 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+426 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Krishna Subramanian &lt;ksubramanian@abc.com&gt; via Email (cc)
+427 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+428 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Pending by Nagaraju Mochi
+429 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+430 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+431 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+432 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ update
+433 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Kishore Babu Ganesana
+434 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ pls check and do the needful
+435 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Creation of mail id for new Joinee 
+436 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IT Team has Created the mail Id and sent the details in separate email.
+437 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Pavan Kumar Thukuntla
+438 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ please take care
+439 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+440 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Pavan Kumar Thukuntla
+441 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+442 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ update
+443 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Nagaraju Mochi
+444 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ pls check and do the needful
+445 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ New Collaborator Added
+446 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Raj Ganpur &lt;rganpur@abc.com&gt; added as a collaborator
+447 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+448 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Nagaraju Mochi
+449 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+450 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Gangadhar Vithana &lt;gvithana@abc.com&gt; via Email (cc)
+451 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to N V R S Surya Narayana Garlapati
+452 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please take care
+453 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Forgot the password, can you please reset the password for me.
+454 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Go to URL : password.reset.com, Enter you login id, enter password received, reset the password
+455 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shijil Kumar Aynoli
+456 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Shijil Kumar Aynoli
+457 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+458 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Shijil Kumar Aynoli
+459 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Sandeep Reddy Jakkidi
+460 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket assignment
+461 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ New Ticket by Agent
+462 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket created by agent - Sandeep Reddy Jakkidi
+463 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+464 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+465 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ MySpace Password Expiry
+466 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please reset the passowrd using self service Portal http://ssp.abc.com, Please write back to us if you face any issue.
+467 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to N V R S Surya Narayana Garlapati
+468 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by N V R S Surya Narayana Garlapati
+469 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+470 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ We started procurement for the vga connector.
+471 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+472 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+473 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+474 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Updated Helptopic
+475 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+476 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Closed by Shashi Kumar Raju Hasthi
+477 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+478 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+479 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+480 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Help topic is changed
+481 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+482 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Resolved by Hari Neelam
+483 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+484 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Dharma Pathaneni &lt;spathaneni@abc.com&gt; via Email (cc)
+485 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shashi Kumar Raju Hasthi
+486 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Shashi Kumar Raju Hasthi
+487 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+488 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ updated the fields
+489 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+490 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+491 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Login Page Down
+492 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Login server was down. It is up now. Please check.
+493 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+494 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Resolved by Shashi Kumar Raju Hasthi
+495 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+496 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+497 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Jagan Muddupati
+498 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please issue headphones once the request get approved.<br />
+499 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+500 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Pending by Sandeep Reddy Jakkidi
+501 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to N V R S Surya Narayana Garlapati
+502 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Narayana, Could you please look into the request.
+503 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+504 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Pending to Closed by N V R S Surya Narayana Garlapati
+505 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+506 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+507 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+508 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Updated helptopic
+509 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shashi Kumar Raju Hasthi
+510 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please Update the ticket
+511 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+512 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Resolved by Shashi Kumar Raju Hasthi
+513 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+514 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Sadanand Kusma &lt;skusma@abc.com&gt; via Email (cc)
+515 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Shashi Kumar Raju Hasthi
+516 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Shashi Kumar Raju Hasthi
+517 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+518 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+519 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+520 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Pending by Shashi Kumar Raju Hasthi
+521 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+522 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Pending to Resolved by Shashi Kumar Raju Hasthi
+523 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Collaborators added by end user
+524 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ IT Support &lt;it@abc.com&gt; via Email (cc)
+525 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Marked Overdue
+526 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket flagged as overdue by the system.
+527 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Updated
+528 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Updated Helptopic.
+529 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to N V R S Surya Narayana Garlapati
+530 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please Update the ticket.
+531 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Sandeep Reddy Jakkidi
+532 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ User is avail at 4th floor, please check and update in the procurement.
+533 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+534 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Pending by Sandeep Reddy Jakkidi
+535 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket Assigned to Sandeep Reddy Jakkidi
+536 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Ticket claimed by Sandeep Reddy Jakkidi
+537 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status Changed
+538 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Status changed from Open to Pending by Sandeep Reddy Jakkidi
+539 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ install MS office
+540 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Please login to web mail and go to settings -office 365 -install applications- download and install MS office for your machine.
+541 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Login Page not opening
+542 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Login server was down. It is up now. Please check.
+543 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Password expired.
+544 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Go to URL : password.reset.com, Enter you login id, enter password received, reset the password
+545 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Account locked. Not able to login
+546 +++$+++ u0 +++$+++ m0 +++$+++ SAMPLE +++$+++ Unlocked the account and new password is sent to your email id.
